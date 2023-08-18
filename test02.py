@@ -1,0 +1,7 @@
+print("hello",end='')
+print('hey', end="")
+print(646)
+print(True)
+print('false')
+print("1234")
+print(10+10+20)
